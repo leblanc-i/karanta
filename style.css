@@ -1,0 +1,13 @@
+h1
+{
+    font-size: 4em;
+}
+section a
+{
+    margin: 20px;   
+}
+.boite :hover
+{
+    background-color: dodgerblue;
+    color: white;
+}
